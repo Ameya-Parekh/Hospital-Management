@@ -1,0 +1,50 @@
+#form-body-container{
+    margin-top:100px;
+    height:650px;
+    max-width:500px;
+    margin-left:550px;
+}
+
+.header-form{
+    margin-top:45px;
+    text-align: center;
+    font-size:30px;
+}
+
+.input-box{
+    margin-top: 20px;
+    width:150px;
+    margin-left: 100px;
+}
+
+label{
+    font-size:25px;
+    margin-right:25px;
+}
+
+input{
+    width:290px;
+    height:30px;
+}
+
+.submit{
+    margin-top:30px;
+    margin-bottom:25px;
+    margin-left:75px;
+    width:350px;
+    height:35px;
+}
+
+.submit:hover{
+    background-color: greenyellow;
+    border-radius:5px;
+}
+
+.image{
+    margin-top:180px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+
+}

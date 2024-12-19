@@ -1,0 +1,138 @@
+.dashboard-navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 99%;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.dashboard-navbar{
+    font-size: 24px;
+    font-weight: 700;
+    color: #333;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.search {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-left: 550px;
+    position: relative;
+}
+
+.icon{
+    width:30px;
+    position:absolute;
+    right: -433px;
+}
+
+.parent{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding:10px;
+    margin: 2px;
+
+}
+.info{
+    background-color: #D2E0FB;
+    position: relative;
+    top: 155px;
+    margin-left: 195px;
+    box-shadow: 6px -14px 44px rgba(7, 4, 5, 0.1);
+    text-align: center;
+    height: 344px;
+    width:283px;
+    font-size:20px;
+}
+
+h2{
+    color:blue;
+}
+
+.twit{
+    margin-right:5px;
+    margin-top:20px;
+}
+
+.what{
+    margin-top:50px;
+    margin-left:280px;
+    padding:3px;
+    width:90%;
+    height:220px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.TodayAppointment{
+    background-color: #D2E0FB;
+    border:4px solid black;
+    box-shadow: 6px -14px 44px rgba(7, 4, 5, 0.1);
+    padding: 20px;
+    margin: -61px;
+    width:500px;
+    height:auto;
+    text-align: center;
+}
+
+th{
+    width:150px;
+    font-size:20px;
+}
+
+.pic{
+    width:50px;
+    margin-right: -3px;
+    margin-bottom: -22px;
+    padding:10px;
+  }
+
+h6{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-bottom: 29px;
+    color:blue;
+}
+.xyz{
+    border:4px solid black;
+    background-color: #D2E0FB;
+    margin-right:20px;
+    width:500px;
+    height:250px;
+}
+
+p{
+    color:black
+}
+
+.new{
+    margin-top: -110px;
+}
+
+.old{
+    margin-top:-575px;
+}
+
+.dr{
+    margin-top:-574px;
+}
+
+.cr{
+    margin-top:-573px;
+}
+
+
+
+
